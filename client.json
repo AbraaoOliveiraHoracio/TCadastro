@@ -1,7 +1,24 @@
 {
-"clients" : [
-  {"id": 1, "name": "Ana maria", "email": "ana@gmail.com"},
-  {"id": 2, "name": "Jose Fernando", "email": "Jose@gmail.com"},
-  {"id": 3, "name": "Marcio Caralho", "email": "Marcio@gmail.com"}
-]
+  "clients": [
+    {
+      "id": 4,
+      "name": "Maria Muclonn",
+      "email": "Pipokinha@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Marcio Caralho",
+      "email": "MarcioPintoA@hotmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Amama Pinto Junior",
+      "email": "Mama@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Monteiro Ferneiro",
+      "email": "MonteiroFerneiro@gmail.com"
+    }
+  ]
 }
